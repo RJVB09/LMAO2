@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LMAO2PostProcessing
+  m_Shaders:
+  - first: {fileID: 4800000, guid: 0c79fac45d0cd434aa78ddac14011b71, type: 3}
+    second:
+      variants: []
+  - first: {fileID: 4800000, guid: 1b9a79c4e6abc61409bdaed13203f8bf, type: 3}
+    second:
+      variants: []
+  - first: {fileID: 4800000, guid: dc28959b1c093f848aa7448f9e909d32, type: 3}
+    second:
+      variants: []
+  - first: {fileID: 4800000, guid: bc531dc399ec27c45881bd6ca69798eb, type: 3}
+    second:
+      variants: []
